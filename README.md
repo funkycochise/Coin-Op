@@ -5,4 +5,4 @@ _Arcade/Coin-Op folder backup
 
 User scripts to generate these folders on yous Mister SD card.
 
-No Beta core available on these archives, only mras. But obviously they won't work without your cores.
+No Beta core available on these archives
